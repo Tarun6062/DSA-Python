@@ -3,7 +3,7 @@
 # ====== Linear   =========    ===========================    Non-Linear    ================
 
 # 1 - Array                                                1 -  TREES
-# 2 - Linkedlist                                           2 -  Graphs
+# 2 - Linkedlist                                           2 -  Graphs  
 # 3 - Stacks
 # 4 - Quhes
 # 5 - Hashing
